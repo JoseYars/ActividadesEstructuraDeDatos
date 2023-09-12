@@ -21,7 +21,7 @@ public class Main {
         }
 
         System.out.println("Elemento en la cima de la Pila: " + pila.obtenerCima());
-System.out.println("La pila está vacía: " + pila.estaVacia());
+
         System.out.println("vaciando pila...");
         pila.vaciar();
 
